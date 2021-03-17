@@ -1,7 +1,5 @@
 # CurrencyConverterApp
-Convert Currency App for Android - Make in Kotlin
-
-This is an app for change currencies for Europe.
+Convert Currency App for Android - Made in Kotlin
 
 This app was enterely made on Kotlin using the exchangeratesapi API.
 
